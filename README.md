@@ -1,5 +1,5 @@
 <h1>Higurashi no Naku Koro ni - Kuradashi-hen</h1>
-⚠️ <p>AVISO: Este jogo possui spoilers de Onikakushi até Minagoroshi.<br/>Só jogue após finalizar as sete primeiras VNs da franquia.</p> 
+<p>⚠️ AVISO: Este jogo possui spoilers de Onikakushi até Minagoroshi.<br/>Só jogue após finalizar as sete primeiras VNs da franquia.</p> 
 <br/>
 <img src="https://kikachangames.github.io/kuradashi/img/00.png">
 <br/>
