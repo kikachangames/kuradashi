@@ -11,6 +11,7 @@
 <img src="https://github.com/kikachangames/kuradashi/blob/main/img/03.png">
 <img src="https://github.com/kikachangames/kuradashi/blob/main/img/04.png">
 <img src="https://github.com/kikachangames/kuradashi/blob/main/img/05.png">
+<br/>
 
 <h3>Equipe</h3>
 
@@ -28,10 +29,12 @@
 <a href="https://discord.gg/qxM4wWu" target="blank">07th Expansion Wiki server</a><br/>
 <a href="https://07thtranslations.wordpress.com/)" target="blank">DoctorDiablo</a><br/>
 <br/>
-<br/>
 
+
+<h3>Download</h3>
 <a href="https://github.com/kikachangames/kuradashi/releases/latest/download/Higurashi_Kuradashi-1.0-pc.zip"><img src="https://github.com/kikachangames/kuradashi/blob/main/img/download_bt.png"></a>
 
+<br/>
 <hr>
-<p><small>Última atualização: 16/01/2025.</small></p>
+<p><small>Última atualização: 16/02/2025.</small></p>
 <p><small>2024 - <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a></small></p>
