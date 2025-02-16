@@ -4,7 +4,7 @@
 <br/>
 <p>"Os fragmentos que estou prestes a lhe mostrar podem ser, na verdade, vestígios de escolhas que os personagens de 'Higurashi' subconscientemente decidiram não fazer..." (Ryukishi07)</p>
 <br/>
-Port para Renpy de <a href="https://vndb.org/v53446" target="_blank">Kuradashi-hen</a>, feito por DoctorDiablo (responsável também pela tradução JP > ENG). Trata-se de uma compilação com 16 fragmentos, originalmente publicada como livreto, que Ryukishi07 não incorporou nos jogos da série Higurashi no Naku Koro Ni. 
+<p>Port para Renpy de <a href="https://vndb.org/v53446" target="_blank">Kuradashi-hen</a>, feito por DoctorDiablo (responsável também pela tradução JP > ENG). Trata-se de uma compilação com 16 fragmentos, originalmente publicada como livreto, que Ryukishi07 não incorporou nos jogos da série Higurashi no Naku Koro Ni.</p>
 
 <img src="https://github.com/kikachangames/kuradashi/blob/main/img/01.png">
 <img src="https://github.com/kikachangames/kuradashi/blob/main/img/02.png">
