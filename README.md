@@ -31,7 +31,6 @@
 <a href="https://07thtranslations.wordpress.com/)" target="blank">DoctorDiablo</a><br/>
 <br/>
 
-
 <h3>Download</h3>
 <a href="https://github.com/kikachangames/kuradashi/releases/latest/download/Higurashi_Kuradashi-1.0-pc.zip"><img src="https://kikachangames.github.io/kuradashi/img/download_bt.png">
 <br/>
