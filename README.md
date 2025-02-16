@@ -1,4 +1,4 @@
-# kuradashi
+<h1>Higurashi no Naku Koro ni - Kuradashi-hen</h1>
 <p>Tradução pt-br de Higurashi Kuradashi-hen</p>
 <br/>
 <img src="https://kikachangames.github.io/kuradashi/img/00.png">
